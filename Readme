@@ -1,0 +1,4 @@
+#Video Compressor Node js Local
+
+1. Install FFMPEG and add it to your system path at environment variables
+2. Then run this after installing node modules
